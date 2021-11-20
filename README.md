@@ -5,7 +5,7 @@
 > Github Repo
 > 
 
-[https://github.com/2insung/System_Programming_team3.git](https://github.com/2insung/System_Programming_team3.git)
+[https://github.com/2insung/SystemProgramming_TEAM3.git](https://github.com/2insung/SystemProgramming_TEAM3.git)
 
 ## 참가자
 
@@ -31,7 +31,7 @@ $git clone <https://github.com/2insung/System_Programming_team3>
 - 처음에 세팅할 때
 
 ```
-$git clone <https://github.com/2insung/System_Programming_team3>
+$git clone <https://github.com/2insung/SystemProgramming_TEAM3.git>
 
 ```
 
