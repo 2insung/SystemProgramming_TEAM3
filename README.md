@@ -110,15 +110,15 @@ git pull origin main  // 본인 branch인 상태에서 명령어
 
 현재 pull.c 가 추가된 상황이지만,
 
-![내 작업 공간에서는 설정이 되지 않은 상태.](![image](https://user-images.githubusercontent.com/84179188/142757416-8ed73de1-9a9a-47c9-8f46-d81189dd2470.png))
+![내 작업 공간에서는 설정이 되지 않은 상태.](https://user-images.githubusercontent.com/84179188/142757416-8ed73de1-9a9a-47c9-8f46-d81189dd2470.png)
 
 내 작업 공간에서는 설정이 되지 않은 상태.
 
-![git pull origin main / main branch에 있는 내용 내 작업 공간으로 내려받기](![image](https://user-images.githubusercontent.com/84179188/142757443-409d2547-16f6-412b-b7df-4ccd2f289dcf.png))
+![git pull origin main / main branch에 있는 내용 내 작업 공간으로 내려받기](https://user-images.githubusercontent.com/84179188/142757443-409d2547-16f6-412b-b7df-4ccd2f289dcf.png)
 
 git pull origin main / main branch에 있는 내용 내 작업 공간으로 내려받기
 
-![작업 공간에 pull.c 가 추가된 모습](![image](https://user-images.githubusercontent.com/84179188/142757452-1d4d3ddb-ab59-4ff1-b6aa-8c8c621a07eb.png))
+![작업 공간에 pull.c 가 추가된 모습](https://user-images.githubusercontent.com/84179188/142757452-1d4d3ddb-ab59-4ff1-b6aa-8c8c621a07eb.png)
 
 작업 공간에 pull.c 가 추가된 모습
 
@@ -129,26 +129,26 @@ git pull origin main / main branch에 있는 내용 내 작업 공간으로 내�
 
 2. 코드 수정 후 push 했다면 pull request 들어가기
 
-(https://user-images.githubusercontent.com/84179188/142757464-3c7bc34c-8fce-4dda-ab5e-6e9f9caa486a.png)
+![Untitled](https://user-images.githubusercontent.com/84179188/142757464-3c7bc34c-8fce-4dda-ab5e-6e9f9caa486a.png)
 
 3. New pull request 클릭 
 
-![Untitled](![image](https://user-images.githubusercontent.com/84179188/142757469-9ac4f614-f7af-4334-b109-88c8a48b6735.png))
+![Untitled](https://user-images.githubusercontent.com/84179188/142757469-9ac4f614-f7af-4334-b109-88c8a48b6735.png)
 
 4. 이후 본인 branch에 들어가기
 
-![Untitled](![image](https://user-images.githubusercontent.com/84179188/142757475-9f3bd5f4-8bfc-45f5-bcae-b46d21967295.png))
+![Untitled](https://user-images.githubusercontent.com/84179188/142757475-9f3bd5f4-8bfc-45f5-bcae-b46d21967295.png)
 
 5. Create pull request 클릭 후 코멘트는 선택 →  Create pull request!
 
-![Untitled](![image](https://user-images.githubusercontent.com/84179188/142757488-b8d7d4fe-9fe5-4d29-a774-1439befc5905.png))
+![Untitled](https://user-images.githubusercontent.com/84179188/142757488-b8d7d4fe-9fe5-4d29-a774-1439befc5905.png)
 
 6. merge 과정 기다리고 merge pull request 클릭 → confirm 하기
 
-![Untitled](![image](https://user-images.githubusercontent.com/84179188/142757497-5ee01504-4266-4a24-8222-ace69fb5811c.png))
+![Untitled](https://user-images.githubusercontent.com/84179188/142757497-5ee01504-4266-4a24-8222-ace69fb5811c.png)
 
 7. merge 확인 후 적용된 것 확인
 
-![앞에서 했던 파일들 다 삭제한거에요](![image](https://user-images.githubusercontent.com/84179188/142757504-1fcc3e53-73b3-4606-afa8-0bff9f5f20eb.png))
+![앞에서 했던 파일들 다 삭제한거에요](https://user-images.githubusercontent.com/84179188/142757504-1fcc3e53-73b3-4606-afa8-0bff9f5f20eb.png)
 
 (앞에서 했던 파일들 다 삭제한거에요)
