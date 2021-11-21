@@ -68,6 +68,12 @@ git push origin {branch name}
 ![image](https://user-images.githubusercontent.com/84179188/142756122-b27bcbc5-c780-44c4-8217-7d4784a61876.png)
 
 
+![image](https://user-images.githubusercontent.com/84179188/142756198-415712c6-8da7-437d-8577-8d674360c7be.png)
+
+![image](https://user-images.githubusercontent.com/84179188/142756208-fafc505b-d81b-4410-8f32-51dd25520669.png)
+
+
+![image](https://user-images.githubusercontent.com/84179188/142756182-e41c30c9-40a2-4108-ae0b-c0c146967e3e.png)
 
 
 ```
