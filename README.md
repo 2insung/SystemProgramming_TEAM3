@@ -106,7 +106,7 @@ git push origin {branch name}
 git pull origin main  // 본인 branch인 상태에서 명령어
 ```
 
-![현재 pull.c 가 추가된 상황이지만,](![image](https://user-images.githubusercontent.com/84179188/142757405-0272b227-618e-4797-bbe1-85343072f61b.png))
+![현재 pull.c 가 추가된 상황이지만,](https://user-images.githubusercontent.com/84179188/142757405-0272b227-618e-4797-bbe1-85343072f61b.png)
 
 현재 pull.c 가 추가된 상황이지만,
 
