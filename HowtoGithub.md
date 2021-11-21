@@ -78,7 +78,7 @@ git push origin {branch name}
 >6. 최신 상태 pull로 내려받기
 
 ```
-git pull origin main  // 본인 branch인 상태에서 명령어
+git pull origin main  // 본인 branch인 상태에서 명령어 입력, main branch에 있는 내용 
 ```
 
 현재 pull.c 가 추가된 상황이지만,
