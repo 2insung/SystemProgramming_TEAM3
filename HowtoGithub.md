@@ -1,8 +1,8 @@
 ## Github 사용법
 
 >1. Git 설치 [https://git-scm.com/downloads](https://git-scm.com/downloads)
-2. Git bash 나 Git CMD 사용
-3. Git Clone -> 자신이 작업하고 싶은 폴더를 만들어서 cmd로 cd {폴더} 후 명령어 입력
+>2. Git bash 나 Git CMD 사용
+>3. Git Clone -> 자신이 작업하고 싶은 폴더를 만들어서 cmd로 cd {폴더} 후 명령어 입력
 
 ```
 ->자신의 작업 폴더를 정하고 repo 내려받기, 처음 세팅할 때만 입력
@@ -12,7 +12,7 @@ $git clone <https://github.com/2insung/SystemProgramming_TEAM3.git>
 
 ![https://user-images.githubusercontent.com/84179188/142755918-b1ee59d7-b5bd-4295-b056-93ada21a38b8.png](https://user-images.githubusercontent.com/84179188/142755918-b1ee59d7-b5bd-4295-b056-93ada21a38b8.png)
 ------------
-4. branch 설정
+>4. branch 설정
 
 ```
 ##clone한 폴더 안에 .git 폴더가 존재하는 폴더(SystemProgramming_TEAM3) 로 다시 cd 이후에 작업
@@ -27,7 +27,7 @@ git checkout {자신의 branch name}
 
 ![https://user-images.githubusercontent.com/84179188/142755956-61187d1e-dfe0-441e-b8ab-962d67adc480.png](https://user-images.githubusercontent.com/84179188/142755956-61187d1e-dfe0-441e-b8ab-962d67adc480.png)
 ------------
-5. 수정 후 push 
+>5. 수정 후 push 
 
 ```
 1. 수정 사항 변경 (일부만)
@@ -75,7 +75,7 @@ git push origin {branch name}
 ![깃허브에 반영된 모습](https://user-images.githubusercontent.com/84179188/142756278-72efa7dc-6c52-4278-be94-358686319736.png)
 
 ------------
-6. 최신 상태 pull로 내려받기
+>6. 최신 상태 pull로 내려받기
 
 ```
 git pull origin main  // 본인 branch인 상태에서 명령어
@@ -94,7 +94,7 @@ git pull origin main / main branch에 있는 내용 내 작업 공간으로 내�
 ![작업 공간에 pull.c 가 추가된 모습](https://user-images.githubusercontent.com/84179188/142757452-1d4d3ddb-ab59-4ff1-b6aa-8c8c621a07eb.png)
 
 ------------
-7. 병합 요청하기 / 수정 사항 반영하는 법
+>7. 병합 요청하기 / 수정 사항 반영하는 법
 
 
  1. 깃허브 들어가기
