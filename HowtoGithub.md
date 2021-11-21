@@ -37,22 +37,23 @@ git commit -m {"text"}         // text에는 아무 말이나 쓰는 것 가능
 git push origin {branch name} //본인 branch name 으로..
 ```
 
-본인 작업 환경에서 수정
+
 ![본인 작업 환경에서 수정](https://user-images.githubusercontent.com/84179188/142756128-f82d0016-68da-4d83-9aac-d68f52327dc0.png)
 
-변경 명령어
+
 ![변경 명령어](https://user-images.githubusercontent.com/84179188/142756135-31233d07-742d-4793-aad0-c834491ce6ec.png)
 
-깃허브에 반영된 모습
+
 ![깃허브에 반영된 모습](https://user-images.githubusercontent.com/84179188/142756122-b27bcbc5-c780-44c4-8217-7d4784a61876.png)
 
-a.html 을 삭제하고 b.js를 추가한 모습
+------------------------
+
 ![a.html 을 삭제하고 b.js를 추가한 모습](https://user-images.githubusercontent.com/84179188/142756198-415712c6-8da7-437d-8577-8d674360c7be.png)
 
-변경 명령어 (파일 2개 add)
+
 ![변경 명령어 (파일 2개 add)](https://user-images.githubusercontent.com/84179188/142756208-fafc505b-d81b-4410-8f32-51dd25520669.png)
 
-깃허브에 반영된 모습
+
 ![깃허브에 반영된 모습](https://user-images.githubusercontent.com/84179188/142756182-e41c30c9-40a2-4108-ae0b-c0c146967e3e.png)
 
 
