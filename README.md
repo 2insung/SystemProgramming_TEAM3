@@ -56,10 +56,11 @@ git checkout {자신의 branch name}
 ```
 1. 수정 사항 변경 (일부만)
 
-git add {파일}         
-git commit -m {"text"}
-git push origin {branch name}
+git add {파일}                  // 여러 파일 가능-> git add {파일} {파일}       
+git commit -m {"text"}         // text에는 아무 말이나 쓰는 것 가능
+git push origin {branch name} //본인 branch name 으로..
 
+```
 ```
 ![image](https://user-images.githubusercontent.com/84179188/142756128-f82d0016-68da-4d83-9aac-d68f52327dc0.png)
 
@@ -74,10 +75,10 @@ git push origin {branch name}
 
 
 ![image](https://user-images.githubusercontent.com/84179188/142756182-e41c30c9-40a2-4108-ae0b-c0c146967e3e.png)
-
+```
 
 ```
-1. 수정 사항 전부 변경할 때
+2. 수정 사항 전부 변경할 때 
 
 git add .     //add . 사용시 수정사항 전부 반영 -> 파일 삭제된 것까지 반영함
 git commit -m {"text"}
@@ -86,9 +87,11 @@ git push origin {branch name}
 ```
 ![image](https://user-images.githubusercontent.com/84179188/142756289-3b7e7d11-fe47-4030-8dd9-9aba71a2a503.png)
 
+![image](https://user-images.githubusercontent.com/84179188/142756296-0407d45c-47bd-4531-9aa6-838ee000c3f0.png)
+
 ![image](https://user-images.githubusercontent.com/84179188/142756278-72efa7dc-6c52-4278-be94-358686319736.png)
 
-![image](https://user-images.githubusercontent.com/84179188/142756296-0407d45c-47bd-4531-9aa6-838ee000c3f0.png)
+
 
 - main을 내 branch로 받을 때
 
