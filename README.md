@@ -54,6 +54,18 @@ git checkout {자신의 branch name}
 5. 수정 후 올릴 때
 
 ```
+1. 수정 사항 변경 (일부만)
+
+git add {파일}         
+git commit -m {"text"}
+git push origin {branch name}
+
+```
+
+
+
+
+```
 1. 수정 사항 전부 변경할 때
 
 git add .     //add . 사용시 수정사항 전부 반영 -> 파일 삭제된 것까지 반영함
@@ -62,14 +74,7 @@ git push origin {branch name}
 
 ```
 
-```
-1. 수정 사항 전부 변경할 때
 
-git add {파일}
-git commit -m {"text"}
-git push origin {branch name}
-
-```
 
 - main을 내 branch로 받을 때
 
