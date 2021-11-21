@@ -61,8 +61,11 @@ git commit -m {"text"}
 git push origin {branch name}
 
 ```
+![image](https://user-images.githubusercontent.com/84179188/142756128-f82d0016-68da-4d83-9aac-d68f52327dc0.png)
 
+![image](https://user-images.githubusercontent.com/84179188/142756122-b27bcbc5-c780-44c4-8217-7d4784a61876.png)
 
+![image](https://user-images.githubusercontent.com/84179188/142756135-31233d07-742d-4793-aad0-c834491ce6ec.png)
 
 
 ```
