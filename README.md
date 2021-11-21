@@ -104,7 +104,7 @@ git push origin {branch name}
 - main을 내 branch로 받을 때
 
 ```
-git pull origin {main branch}
+git pull origin main  // 본인 branch인 상태에서 명령어 
 
 ```
 
