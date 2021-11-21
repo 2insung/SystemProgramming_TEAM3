@@ -32,7 +32,7 @@ git checkout {자신의 branch name}
 ```
 1. 수정 사항 변경 (일부만)
 
-git add {파일}                  // 여러 파일 가능-> git add {파일} {파일}
+git add {파일}                  // 생성 or 삭제 or 수정한 파일 , 여러 파일 가능-> git add {파일} {파일}
 git commit -m {"text"}         // text에는 아무 말이나 쓰는 것 가능
 git push origin {branch name} //본인 branch name 으로..
 ```
