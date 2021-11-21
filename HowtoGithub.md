@@ -11,7 +11,7 @@ $git clone <https://github.com/2insung/SystemProgramming_TEAM3.git>
 ```
 
 ![https://user-images.githubusercontent.com/84179188/142755918-b1ee59d7-b5bd-4295-b056-93ada21a38b8.png](https://user-images.githubusercontent.com/84179188/142755918-b1ee59d7-b5bd-4295-b056-93ada21a38b8.png)
-
+------------
 4. branch 설정
 
 ```
@@ -27,7 +27,7 @@ git checkout {자신의 branch name}
 
 ![https://user-images.githubusercontent.com/84179188/142755956-61187d1e-dfe0-441e-b8ab-962d67adc480.png](https://user-images.githubusercontent.com/84179188/142755956-61187d1e-dfe0-441e-b8ab-962d67adc480.png)
 ------------
-5. 수정 후 올릴 때
+5. 수정 후 push 
 
 ```
 1. 수정 사항 변경 (일부만)
@@ -46,7 +46,7 @@ git push origin {branch name} //본인 branch name 으로..
 
 ![깃허브에 반영된 모습](https://user-images.githubusercontent.com/84179188/142756122-b27bcbc5-c780-44c4-8217-7d4784a61876.png)
 
-------------------------
+------------
    (a.html 을 삭제하고 b.js를 추가한 모습)
 ![a.html 을 삭제하고 b.js를 추가한 모습](https://user-images.githubusercontent.com/84179188/142756198-415712c6-8da7-437d-8577-8d674360c7be.png)
 
@@ -56,7 +56,7 @@ git push origin {branch name} //본인 branch name 으로..
 
 ![깃허브에 반영된 모습](https://user-images.githubusercontent.com/84179188/142756182-e41c30c9-40a2-4108-ae0b-c0c146967e3e.png)
 
-
+------------
 ```
 2. 수정 사항 전부 변경할 때
 
@@ -74,8 +74,8 @@ git push origin {branch name}
 깃허브에 반영된 모습
 ![깃허브에 반영된 모습](https://user-images.githubusercontent.com/84179188/142756278-72efa7dc-6c52-4278-be94-358686319736.png)
 
-
-- main을 내 branch로 받을 때
+------------
+6. 최신 상태 pull로 내려받기
 
 ```
 git pull origin main  // 본인 branch인 상태에서 명령어
@@ -93,8 +93,10 @@ git pull origin main / main branch에 있는 내용 내 작업 공간으로 내�
 작업 공간에 pull.c 가 추가된 모습
 ![작업 공간에 pull.c 가 추가된 모습](https://user-images.githubusercontent.com/84179188/142757452-1d4d3ddb-ab59-4ff1-b6aa-8c8c621a07eb.png)
 
+------------
+7.병합 요청하기 / 수정 사항 반영하는 법
 
-- 병합 요청하기 / 수정 사항 반영하는 법
+
 1. 깃허브 들어가기
 
 [https://github.com/2insung/SystemProgramming_TEAM3](https://github.com/2insung/SystemProgramming_TEAM3)
