@@ -28,6 +28,8 @@ PM: 정인준
 $git clone https://github.com/2insung/SystemProgramming_TEAM3.git
 
 ```
+![image](https://user-images.githubusercontent.com/84179188/142755918-b1ee59d7-b5bd-4295-b056-93ada21a38b8.png)
+
 
 4. branch 설정
 
@@ -44,6 +46,8 @@ git branch {하고 싶은 이름}
 git checkout {자신의 branch name}
 
 ```
+![image](https://user-images.githubusercontent.com/84179188/142755929-222d6fa6-2124-4ec8-b592-1d8a6f717c4b.png)
+
 
 5. 수정 후 올릴 때
 
