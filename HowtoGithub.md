@@ -97,31 +97,31 @@ git pull origin main / main branch에 있는 내용 내 작업 공간으로 내�
 7. 병합 요청하기 / 수정 사항 반영하는 법
 
 
-1. 깃허브 들어가기
+ 1. 깃허브 들어가기
 
 [https://github.com/2insung/SystemProgramming_TEAM3](https://github.com/2insung/SystemProgramming_TEAM3)
 
-2. 코드 수정 후 push 했다면 pull request 들어가기
+ 2. 코드 수정 후 push 했다면 pull request 들어가기
 
 ![Untitled](https://user-images.githubusercontent.com/84179188/142757464-3c7bc34c-8fce-4dda-ab5e-6e9f9caa486a.png)
 
-3. New pull request 클릭 
+ 3. New pull request 클릭 
 
 ![Untitled](https://user-images.githubusercontent.com/84179188/142757469-9ac4f614-f7af-4334-b109-88c8a48b6735.png)
 
-4. 이후 본인 branch에 들어가기
+ 4. 이후 본인 branch에 들어가기
 
 ![Untitled](https://user-images.githubusercontent.com/84179188/142757475-9f3bd5f4-8bfc-45f5-bcae-b46d21967295.png)
 
-5. Create pull request 클릭 후 코멘트는 선택 →  Create pull request!
+ 5. Create pull request 클릭 후 코멘트는 선택 →  Create pull request!
 
 ![Untitled](https://user-images.githubusercontent.com/84179188/142757488-b8d7d4fe-9fe5-4d29-a774-1439befc5905.png)
 
-6. merge 과정 기다리고 merge pull request 클릭 → confirm 하기
+ 6. merge 과정 기다리고 merge pull request 클릭 → confirm 하기
 
 ![Untitled](https://user-images.githubusercontent.com/84179188/142757497-5ee01504-4266-4a24-8222-ace69fb5811c.png)
 
-7. merge 확인 후 적용된 것 확인
+ 7. merge 확인 후 적용된 것 확인
 
 ![앞에서 했던 파일들 다 삭제한거에요](https://user-images.githubusercontent.com/84179188/142757504-1fcc3e53-73b3-4606-afa8-0bff9f5f20eb.png)
 
