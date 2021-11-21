@@ -34,6 +34,7 @@ $git clone https://github.com/2insung/SystemProgramming_TEAM3.git
 4. branch 설정
 
 ```
+##clone한 폴더 안에 .git 폴더가 존재하는 폴더(SystemProgramming_TEAM3) 로 다시 cd 이후에 작업
 git branch   --> 현재 branch들 보기
 
 ->본인 branch 만들기. 이 branch로 push/pull 작업 수행
@@ -46,7 +47,8 @@ git branch {하고 싶은 이름}
 git checkout {자신의 branch name}
 
 ```
-![image](https://user-images.githubusercontent.com/84179188/142755929-222d6fa6-2124-4ec8-b592-1d8a6f717c4b.png)
+![image](https://user-images.githubusercontent.com/84179188/142755956-61187d1e-dfe0-441e-b8ab-962d67adc480.png)
+
 
 
 5. 수정 후 올릴 때
