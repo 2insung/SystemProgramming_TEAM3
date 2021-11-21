@@ -37,29 +37,24 @@ git commit -m {"text"}         // text에는 아무 말이나 쓰는 것 가능
 git push origin {branch name} //본인 branch name 으로..
 ```
 
+본인 작업 환경에서 수정
 ![본인 작업 환경에서 수정](https://user-images.githubusercontent.com/84179188/142756128-f82d0016-68da-4d83-9aac-d68f52327dc0.png)
 
-본인 작업 환경에서 수정
-
+변경 명령어
 ![변경 명령어](https://user-images.githubusercontent.com/84179188/142756135-31233d07-742d-4793-aad0-c834491ce6ec.png)
 
-변경 명령어
-
+깃허브에 반영된 모습
 ![깃허브에 반영된 모습](https://user-images.githubusercontent.com/84179188/142756122-b27bcbc5-c780-44c4-8217-7d4784a61876.png)
 
-깃허브에 반영된 모습
-
+a.html 을 삭제하고 b.js를 추가한 모습
 ![a.html 을 삭제하고 b.js를 추가한 모습](https://user-images.githubusercontent.com/84179188/142756198-415712c6-8da7-437d-8577-8d674360c7be.png)
 
-a.html 을 삭제하고 b.js를 추가한 모습
-
+변경 명령어 (파일 2개 add)
 ![변경 명령어 (파일 2개 add)](https://user-images.githubusercontent.com/84179188/142756208-fafc505b-d81b-4410-8f32-51dd25520669.png)
 
-변경 명령어 (파일 2개 add)
-
+깃허브에 반영된 모습
 ![깃허브에 반영된 모습](https://user-images.githubusercontent.com/84179188/142756182-e41c30c9-40a2-4108-ae0b-c0c146967e3e.png)
 
-깃허브에 반영된 모습
 
 ```
 2. 수정 사항 전부 변경할 때
@@ -69,17 +64,15 @@ git commit -m {"text"}
 git push origin {branch name}
 ```
 
+변경한 파일이 여러 개일 때
 ![변경한 파일이 여러 개일 때](https://user-images.githubusercontent.com/84179188/142756289-3b7e7d11-fe47-4030-8dd9-9aba71a2a503.png)
 
-변경한 파일이 여러 개일 때
-
+변경 명령어
 ![변경 명령어](https://user-images.githubusercontent.com/84179188/142756296-0407d45c-47bd-4531-9aa6-838ee000c3f0.png)
 
-변경 명령어
-
+깃허브에 반영된 모습
 ![깃허브에 반영된 모습](https://user-images.githubusercontent.com/84179188/142756278-72efa7dc-6c52-4278-be94-358686319736.png)
 
-깃허브에 반영된 모습
 
 - main을 내 branch로 받을 때
 
@@ -87,21 +80,18 @@ git push origin {branch name}
 git pull origin main  // 본인 branch인 상태에서 명령어
 ```
 
+현재 pull.c 가 추가된 상황이지만,
 ![현재 pull.c 가 추가된 상황이지만,](https://user-images.githubusercontent.com/84179188/142757405-0272b227-618e-4797-bbe1-85343072f61b.png)
 
-현재 pull.c 가 추가된 상황이지만,
-
+내 작업 공간에서는 설정이 되지 않은 상태.
 ![내 작업 공간에서는 설정이 되지 않은 상태.](https://user-images.githubusercontent.com/84179188/142757416-8ed73de1-9a9a-47c9-8f46-d81189dd2470.png)
 
-내 작업 공간에서는 설정이 되지 않은 상태.
-
+git pull origin main / main branch에 있는 내용 내 작업 공간으로 내려받기
 ![git pull origin main / main branch에 있는 내용 내 작업 공간으로 내려받기](https://user-images.githubusercontent.com/84179188/142757443-409d2547-16f6-412b-b7df-4ccd2f289dcf.png)
 
-git pull origin main / main branch에 있는 내용 내 작업 공간으로 내려받기
-
+작업 공간에 pull.c 가 추가된 모습
 ![작업 공간에 pull.c 가 추가된 모습](https://user-images.githubusercontent.com/84179188/142757452-1d4d3ddb-ab59-4ff1-b6aa-8c8c621a07eb.png)
 
-작업 공간에 pull.c 가 추가된 모습
 
 - 병합 요청하기 / 수정 사항 반영하는 법
 1. 깃허브 들어가기
