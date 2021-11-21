@@ -25,7 +25,7 @@ PM: 정인준
 ```
 ->자신의 작업 폴더를 정하고 repo 내려받기, 처음 세팅할 때만 입력
 
-$git clone <https://github.com/2insung/System_Programming_team3>
+$git clone <https://github.com/2insung/SystemProgramming_TEAM3.git>
 
 ```
 
