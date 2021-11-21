@@ -106,19 +106,19 @@ git push origin {branch name}
 git pull origin main  // 본인 branch인 상태에서 명령어
 ```
 
-![현재 pull.c 가 추가된 상황이지만,](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7c4ff4df-fb90-481d-aacc-efc54ad86f8a/Untitled.png)
+![현재 pull.c 가 추가된 상황이지만,](![image](https://user-images.githubusercontent.com/84179188/142757405-0272b227-618e-4797-bbe1-85343072f61b.png))
 
 현재 pull.c 가 추가된 상황이지만,
 
-![내 작업 공간에서는 설정이 되지 않은 상태.](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/76f5da64-c460-4cb6-8a7e-e880d3ee80fc/Untitled.png)
+![내 작업 공간에서는 설정이 되지 않은 상태.](![image](https://user-images.githubusercontent.com/84179188/142757416-8ed73de1-9a9a-47c9-8f46-d81189dd2470.png))
 
 내 작업 공간에서는 설정이 되지 않은 상태.
 
-![git pull origin main / main branch에 있는 내용 내 작업 공간으로 내려받기](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e0703089-a964-4a69-974f-8ff0353d2c6a/Untitled.png)
+![git pull origin main / main branch에 있는 내용 내 작업 공간으로 내려받기](![image](https://user-images.githubusercontent.com/84179188/142757443-409d2547-16f6-412b-b7df-4ccd2f289dcf.png))
 
 git pull origin main / main branch에 있는 내용 내 작업 공간으로 내려받기
 
-![작업 공간에 pull.c 가 추가된 모습](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f0687a29-8d62-4d88-9335-4f4cf69a9304/Untitled.png)
+![작업 공간에 pull.c 가 추가된 모습](![image](https://user-images.githubusercontent.com/84179188/142757452-1d4d3ddb-ab59-4ff1-b6aa-8c8c621a07eb.png))
 
 작업 공간에 pull.c 가 추가된 모습
 
@@ -127,28 +127,28 @@ git pull origin main / main branch에 있는 내용 내 작업 공간으로 내�
 
 [https://github.com/2insung/SystemProgramming_TEAM3](https://github.com/2insung/SystemProgramming_TEAM3)
 
-1. 코드 수정 후 push 했다면 pull request 들어가기
+2. 코드 수정 후 push 했다면 pull request 들어가기
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/84b04101-286c-4a53-9095-0a4a924ee059/Untitled.png)
+![Untitled](![image](https://user-images.githubusercontent.com/84179188/142757464-3c7bc34c-8fce-4dda-ab5e-6e9f9caa486a.png))
 
-1. New pull request 클릭 
+3. New pull request 클릭 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dfffeb6d-8a0d-431f-a5b1-81560218a5c0/Untitled.png)
+![Untitled](![image](https://user-images.githubusercontent.com/84179188/142757469-9ac4f614-f7af-4334-b109-88c8a48b6735.png))
 
-1. 이후 본인 branch에 들어가기
+4. 이후 본인 branch에 들어가기
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5f833d03-01a3-40d4-85b5-b383649fc8bd/Untitled.png)
+![Untitled](![image](https://user-images.githubusercontent.com/84179188/142757475-9f3bd5f4-8bfc-45f5-bcae-b46d21967295.png))
 
-1. Create pull request 클릭 후 코멘트는 선택 →  Create pull request!
+5. Create pull request 클릭 후 코멘트는 선택 →  Create pull request!
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/191fc2a5-482f-411b-b9fe-a094f6b33d62/Untitled.png)
+![Untitled](![image](https://user-images.githubusercontent.com/84179188/142757488-b8d7d4fe-9fe5-4d29-a774-1439befc5905.png))
 
-1. merge 과정 기다리고 merge pull request 클릭 → confirm 하기
+6. merge 과정 기다리고 merge pull request 클릭 → confirm 하기
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a8194659-27f6-4545-b2a7-50aac3e33216/Untitled.png)
+![Untitled](![image](https://user-images.githubusercontent.com/84179188/142757497-5ee01504-4266-4a24-8222-ace69fb5811c.png))
 
-1. merge 확인 후 적용된 것 확인
+7. merge 확인 후 적용된 것 확인
 
-![앞에서 했던 파일들 다 삭제한거에요](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/491e943a-7f78-4677-ab1b-2ff3f8193def/Untitled.png)
+![앞에서 했던 파일들 다 삭제한거에요](![image](https://user-images.githubusercontent.com/84179188/142757504-1fcc3e53-73b3-4606-afa8-0bff9f5f20eb.png))
 
-앞에서 했던 파일들 다 삭제한거에요
+(앞에서 했던 파일들 다 삭제한거에요)
