@@ -31,7 +31,7 @@ $git clone <https://github.com/2insung/SystemProgramming_TEAM3.git>
 
 ![https://user-images.githubusercontent.com/84179188/142755918-b1ee59d7-b5bd-4295-b056-93ada21a38b8.png](https://user-images.githubusercontent.com/84179188/142755918-b1ee59d7-b5bd-4295-b056-93ada21a38b8.png)
 
-1. branch 설정
+4. branch 설정
 
 ```
 ##clone한 폴더 안에 .git 폴더가 존재하는 폴더(SystemProgramming_TEAM3) 로 다시 cd 이후에 작업
@@ -46,7 +46,7 @@ git checkout {자신의 branch name}
 
 ![https://user-images.githubusercontent.com/84179188/142755956-61187d1e-dfe0-441e-b8ab-962d67adc480.png](https://user-images.githubusercontent.com/84179188/142755956-61187d1e-dfe0-441e-b8ab-962d67adc480.png)
 
-1. 수정 후 올릴 때
+5. 수정 후 올릴 때
 
 ```
 1. 수정 사항 변경 (일부만)
