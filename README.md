@@ -23,33 +23,43 @@ PM: 정인준
 3. Git Clone -> 자신이 작업하고 싶은 폴더를 만들어서 cmd로 cd {폴더} 후 명령어 입력
 
 ```
+->자신의 작업 폴더를 정하고 repo 내려받기, 처음 세팅할 때만 입력
+
 $git clone <https://github.com/2insung/System_Programming_team3>
 
 ```
 
-1. 명령어
-- 처음에 세팅할 때
-
-```
-$git clone <https://github.com/2insung/SystemProgramming_TEAM3.git>
-
-```
+4. branch 설정
 
 ```
 git branch   --> 현재 branch들 보기
-git branch {하고 싶은 이름}
+
+->본인 branch 만들기. 이 branch로 push/pull 작업 수행
+git branch {하고 싶은 이름} 
 
 ```
 
 ```
+->본인 branch로 상태 변경 
 git checkout {자신의 branch name}
 
 ```
 
-- 수정 후 올릴 때
+5. 수정 후 올릴 때
 
 ```
-git add .
+1. 수정 사항 전부 변경할 때
+
+git add .     //add . 사용시 수정사항 전부 반영 -> 파일 삭제된 것까지 반영함
+git commit -m {"text"}
+git push origin {branch name}
+
+```
+
+```
+1. 수정 사항 전부 변경할 때
+
+git add {파일}
 git commit -m {"text"}
 git push origin {branch name}
 
