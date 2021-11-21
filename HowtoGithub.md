@@ -26,7 +26,7 @@ git checkout {자신의 branch name}
 ```
 
 ![https://user-images.githubusercontent.com/84179188/142755956-61187d1e-dfe0-441e-b8ab-962d67adc480.png](https://user-images.githubusercontent.com/84179188/142755956-61187d1e-dfe0-441e-b8ab-962d67adc480.png)
-
+------------
 5. 수정 후 올릴 때
 
 ```
@@ -47,7 +47,7 @@ git push origin {branch name} //본인 branch name 으로..
 ![깃허브에 반영된 모습](https://user-images.githubusercontent.com/84179188/142756122-b27bcbc5-c780-44c4-8217-7d4784a61876.png)
 
 ------------------------
-
+   (a.html 을 삭제하고 b.js를 추가한 모습)
 ![a.html 을 삭제하고 b.js를 추가한 모습](https://user-images.githubusercontent.com/84179188/142756198-415712c6-8da7-437d-8577-8d674360c7be.png)
 
 
