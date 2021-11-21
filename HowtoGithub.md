@@ -96,8 +96,7 @@ git pull origin main / main branch에 있는 내용 내 작업 공간으로 내�
 ------------
 7. 병합 요청하기 / 수정 사항 반영하는 법
 
-```
-```
+
  1. 깃허브 들어가기
 
 [https://github.com/2insung/SystemProgramming_TEAM3](https://github.com/2insung/SystemProgramming_TEAM3)
