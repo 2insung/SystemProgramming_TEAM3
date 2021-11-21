@@ -65,13 +65,13 @@ git commit -m {"text"}
 git push origin {branch name}
 ```
 
-변경한 파일이 여러 개일 때
+
 ![변경한 파일이 여러 개일 때](https://user-images.githubusercontent.com/84179188/142756289-3b7e7d11-fe47-4030-8dd9-9aba71a2a503.png)
 
-변경 명령어
+
 ![변경 명령어](https://user-images.githubusercontent.com/84179188/142756296-0407d45c-47bd-4531-9aa6-838ee000c3f0.png)
 
-깃허브에 반영된 모습
+
 ![깃허브에 반영된 모습](https://user-images.githubusercontent.com/84179188/142756278-72efa7dc-6c52-4278-be94-358686319736.png)
 
 ------------
