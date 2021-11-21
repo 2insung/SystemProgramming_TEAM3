@@ -129,7 +129,7 @@ git pull origin main / main branch에 있는 내용 내 작업 공간으로 내�
 
 2. 코드 수정 후 push 했다면 pull request 들어가기
 
-![Untitled]((https://user-images.githubusercontent.com/84179188/142757464-3c7bc34c-8fce-4dda-ab5e-6e9f9caa486a.png))
+![image]((https://user-images.githubusercontent.com/84179188/142757464-3c7bc34c-8fce-4dda-ab5e-6e9f9caa486a.png))
 
 3. New pull request 클릭 
 
