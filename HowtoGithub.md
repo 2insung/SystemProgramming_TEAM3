@@ -82,7 +82,8 @@ git pull origin main  // 본인 branch인 상태에서 명령어 입력, main br
 ```
 
 현재 pull.c 가 추가된 상황이지만,
-![현재 pull.c 가 추가된 상황이지만,](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7c4ff4df-fb90-481d-aacc-efc54ad86f8a/Untitled.png)
+![현재 pull.c 가 추가된 상황이지만,](https://user-images.githubusercontent.com/84179188/142806599-82e26dfc-8ece-4182-a421-80766b76a403.png)
+
 
 
 내 작업 공간에서는 설정이 되지 않은 상태.
